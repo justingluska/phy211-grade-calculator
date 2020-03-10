@@ -1,7 +1,8 @@
 # phy211-grade-calculator
 ## physics 1 @ syracuse university spring 2020
 ### taught by walter freeman & matthew rudolph
-for phy211 spring 2020 walter freeman
+
+---
 
 - enter grades for all assignments and exams throughout the semester
 - accounts for dropped exam grade
